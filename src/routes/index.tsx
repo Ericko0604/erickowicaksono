@@ -533,18 +533,31 @@ function Contact() {
               erickowicaksono9@gmail.com
             </a>
             <a
-              href="#"
+              href="https://www.linkedin.com/in/ericko-wicaksono-9099421a4/"
+              target="_blank"
+              rel="noreferrer"
               className="inline-flex items-center gap-2 px-5 py-3.5 rounded-md border border-border hover:bg-surface transition"
             >
               <Linkedin className="size-4" />
               LinkedIn
             </a>
             <a
-              href="#"
+              href="https://github.com/Ericko0604"
+              target="_blank"
+              rel="noreferrer"
               className="inline-flex items-center gap-2 px-5 py-3.5 rounded-md border border-border hover:bg-surface transition"
             >
               <Github className="size-4" />
-              GitHub
+              GitHub (Ericko0604)
+            </a>
+            <a
+              href="https://github.com/Ericko9"
+              target="_blank"
+              rel="noreferrer"
+              className="inline-flex items-center gap-2 px-5 py-3.5 rounded-md border border-border hover:bg-surface transition"
+            >
+              <Github className="size-4" />
+              GitHub (Ericko9)
             </a>
           </div>
         </div>
